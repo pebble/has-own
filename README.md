@@ -1,5 +1,4 @@
 #has-own
-==========
 
 Shorthand `Object.prototype.hasOwnProperty.call(obj, name)`.
 
