@@ -14,6 +14,6 @@ o.name = 'has-own';
 assert(hasOwn('name', o)); // true
 ```
 
-Why another module? Because I like it's readability.
+Why another module? Because I like its readability.
 
 [LICENSE](https://github.com/pebble/has-own/blob/master/LICENSE)
